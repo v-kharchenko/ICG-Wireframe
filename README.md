@@ -1,4 +1,4 @@
-# icg-wireframe
+# ICG-Wireframe
 
 This is an educational project created within the computer graphics course in Novosibirsk state University.
 
